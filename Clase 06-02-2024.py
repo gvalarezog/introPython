@@ -77,3 +77,6 @@ def registrar4(nombre, *args, **kwargs):
     print(nombre)
 
 # print(registrar4(nombre='Luis', ('Perez',), email='lperz@mail.com'))
+'''
+CAmbio para mostrar en GIT
+'''
